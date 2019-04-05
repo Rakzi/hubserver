@@ -1,5 +1,7 @@
 #include <stdio.h>
-factorial()
+long int multiplyNumbers(int n);
+
+int main()
 {
     int n;
     printf("Enter a positive integer: ");
