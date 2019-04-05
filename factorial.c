@@ -1,7 +1,6 @@
 #include <stdio.h>
-factorial(int n);
 
-int main()
+factorial()
 {
     int n;
     printf("Enter a positive integer: ");
