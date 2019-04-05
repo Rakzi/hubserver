@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+biggest()
 {
    char name[50];
    int marks, i, num;
