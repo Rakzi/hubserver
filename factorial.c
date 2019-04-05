@@ -1,5 +1,5 @@
 #include <stdio.h>
-long int multiplyNumbers(int n);
+factorial(int n);
 
 int main()
 {
