@@ -1,4 +1,5 @@
 #include <stdio.h>
+print ("hello")
 biggest()
 {
    char name[50];
