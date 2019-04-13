@@ -14,6 +14,7 @@ biggest()
        printf("Error!");
        exit(1);
    }
+   #trigerring build
 
    for(i = 0; i < num; ++i)
    {
